@@ -34,6 +34,6 @@ public class ResultActivity extends AppCompatActivity {
         });
         tv_Rcode.setText("200");
         tv_error.setText("No Error");
-        
+
     }
 }
