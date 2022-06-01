@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InstabugTask</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="url">URL</string>
+    <string name="ExampleURL">http://www.instabug.com/</string>
+    <string name="type">Type</string>
+    <string name="post">POST</string>
+    <string name="get">GET</string>
+    <string name="headers">Headers</string>
+    <string name="query_parameters">Query parameters</string>
+    <string name="request_body">Request Body</string>
+    <string name="ex_body">{ \"key1\": \"value1\", \n \"key2\": \"value2\" }</string>
+    <string name="send">SEND</string>
+    <string name="empty_url">Insert a URL</string>
+    <string name="empty_request_type">choose a request type</string>
+    <string name="response_code">Response Code</string>
+    <string name="error">Error</string>
+    <string name="response_body">Response body</string>
+    <string name="cancel">Cancel</string>
+    <string name="addicon">addicon</string>
+</resources>
