@@ -51,10 +51,10 @@ public class MainActivity extends AppCompatActivity {
         Button btn_send = findViewById(R.id.btn_send);
 
 
-        iv_remove_item.setOnClickListener(v -> {
+        /*iv_remove_item.setOnClickListener(v -> {
             //todo : manage how to remove the last pressed
             linear_headers_parent_host.removeViewAt(0);
-        });
+        });*/
 
 
         iv_add_header.setOnClickListener(v ->
